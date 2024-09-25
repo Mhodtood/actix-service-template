@@ -1,2 +1,3 @@
-# actix-service-template
-Rust service template based on Actix
+# ${{ values.name }}
+
+Service: ${{ values.name }} is created based on Actix-web
